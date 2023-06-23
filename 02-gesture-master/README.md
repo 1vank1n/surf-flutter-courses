@@ -1,23 +1,23 @@
 # Description of your result
 
-You can describe your results in any language that is convenient for you, not just English.
+Видео результатов прикрепил в PR
 
 ## Description
 
-[Describe what you have done]
+Всё получилось
 
 ## How to
 
-[Describe how to run your application if there are any issues]
+`fvm flutter run -t lib/2-gesture-master/main.dart`
 
 ## Problems
 
-[Describe the problems you encountered]
+—
 
 ## More
 
-[Here you can brag about what you managed to implement or do something beyond the task]
+—
 
 ## Demo
 
-[Leave links to screencasts/screenshots here, you can use a GitHub repository or a separate cloud service]
+Screen cast — [https://github.com/1vank1n/surf-flutter-courses/pull/2]
